@@ -1,0 +1,3 @@
+After 1st Itereation:
+-Use an ATTiny 85 to shrink GizDuino Board
+-Use the LowPower Library to make the project run longer on batteries.

@@ -1,0 +1,88 @@
+-2693Range: -8192 to 8192
+
+Thesis Device 1:
+Accel:
+X: -748
+Y: -1041
+Z: 882
+
+Accel(AVE):
+X: -755.8
+Y: -1077.2
+Z: 871.8
+
+Gyro:
+X: 87
+Y: -63
+Z: -11
+
+Thesis Device 2:
+Accel:
+X: -2727
+Y: 556
+Z: 1022
+
+Accel (ave):
+X: -2693.2
+Y: 590.6
+Z: 1036.8
+
+test
+x: -2740,-2743,-2738,-2738,-2721=-2736
+y: 550,540,539,540,536=541
+z: 999,1000,999,998,998=999(998.8)
+
+Gyro:-748-
+X: 47
+Y: -21
+Z: 17
+
+Thesis Device 3:
+Accel:
+X: -2279
+Y: 62
+Z: 258
+
+Accel(ave):
+X: -2298.6
+Y: 43
+Z: 210.2
+
+Gyro:
+X: 52
+Y: -68
+Z: -32
+
+
+Thesis Device 4:
+Accel:
+X: 366
+Y: 808
+Z: 737
+
+Accel (AVE):
+X: 353
+Y: 793.8
+Z: 723.6
+
+Gyro:
+X: 51
+Y: -30
+Z: 16
+
+Thesis Device 5:
+Accel:
+X: 885
+Y: -1041
+Z: 1112
+
+Accel (ave):
+X: 827.2
+Y: -1082.8
+Z: 1091.2
+
+
+Gyro:
+X: 
+Y: 
+Z: 
